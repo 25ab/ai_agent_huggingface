@@ -1,0 +1,27 @@
+pandas
+numpy
+ipywidgets
+plotly
+kaleido
+pillow
+
+# Agent frameworks
+langgraph
+langchain
+smolagents
+
+duckduckgo-search
+
+# ML + AI
+transformers
+torch
+sentencepiece
+scikit-learn
+huggingface-hub
+
+# Utils
+loguru
+python-dotenv
+requests
+pydantic
+faiss-cpu
